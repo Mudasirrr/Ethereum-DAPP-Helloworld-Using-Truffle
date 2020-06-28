@@ -13,11 +13,11 @@ Truffle is a development environment, testing framework and asset pipeline for E
 
 
 # Requiremts:
-Node
-Truffle
-Solidity Smartcontract
+### Node
+### Truffle
+### Solidity Smartcontract
 
 # Reading Data
 In order to read data 
-=> Hello.deployed().then(function(instance){ app = instance; })
-=> app.getGreeting()
+### => Hello.deployed().then(function(instance){ app = instance; })
+### => app.getGreeting()
